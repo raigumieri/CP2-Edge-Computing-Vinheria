@@ -144,7 +144,7 @@ void loop() {
   
   if(tempC < 9){
     
-digitalWrite(ledamareloT, 1);
+    digitalWrite(ledamareloT, 1);
     digitalWrite(ledvermelhoT, 0);
     
     lcd.clear();
