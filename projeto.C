@@ -52,7 +52,7 @@ void loop() {
   if(valorLDR <= 100) {
     
     digitalWrite(ledvermelho, 0);
-digitalWrite(ledamarelo, 0);
+    digitalWrite(ledamarelo, 0);
     digitalWrite(ledverde, 1);
     noTone(buzzer);
     
@@ -70,7 +70,7 @@ digitalWrite(ledamarelo, 0);
   if(valorLDR > 100 && valorLDR < 150) {
     
     digitalWrite(ledvermelho, 0);
-digitalWrite(ledamarelo, 1);
+    digitalWrite(ledamarelo, 1);
     digitalWrite(ledverde, 0);
     noTone(buzzer);
     
@@ -87,7 +87,7 @@ digitalWrite(ledamarelo, 1);
   if(valorLDR >= 150) {   
  
     digitalWrite(ledvermelho, 1);
-digitalWrite(ledamarelo, 0);
+    digitalWrite(ledamarelo, 0);
     digitalWrite(ledverde, 0);
     tone(buzzer, 1000);
     
