@@ -59,7 +59,7 @@
   <li> Se o ambiente estiver com a umidade menor que 50%, ela está baixa. </li>
 </ul>
 
-<p> No projeto físico, é apropriado usar uma peça chamada DHT11 e baixar sua biblioteca, pois a função dela é medir justamente esses tópicos. Entretando não é possível utilizar esse material no projeto online, já que o DHT11 não está disponível no site. Por conta disso, o projeto possui um sensor de temperatura e um potenciômetro, para simular o valor de umidade que seria obtido e logo em seguida ser apresentado diretamente no Display LCD. Concluindo que os materias utilizados foram: </p>
+<p> No projeto físico, é apropriado usar uma peça chamada DHT11 e baixar sua biblioteca, pois a função dela é medir justamente esses tópicos. Entretando não é possível utilizar esse material no projeto online, já que o DHT11 não está disponível no site. Por conta disso, o projeto possui um sensor de temperatura e um potenciômetro para simular o valor de umidade que seria obtido e logo em seguida ser apresentado diretamente no Display LCD. Concluindo que os materias utilizados foram: </p>
 
 <ul>
   <li> Um Potenciômetro; </li>
