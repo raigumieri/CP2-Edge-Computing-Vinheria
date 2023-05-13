@@ -5,10 +5,10 @@
 > Status: Concluido ✔️
 
  ## Integrantes do grupo: 
- + Fellype Laes dos Santos
- + Henrique Lima
- + Guilherme Fazito
- + Raí Gumieri dos Santos
+ + Fellype Laes dos Santos RM:550233
+ + Henrique Lima RM:551528
+ + Guilherme Fazito RM:550539
+ + Raí Gumieri dos Santos RM:98287
 
 ## Materiais necessários:
 + Um Arduino Uno R3;
