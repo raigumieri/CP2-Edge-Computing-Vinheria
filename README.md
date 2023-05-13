@@ -32,7 +32,7 @@
 <ul>
   <li> Se o ambiente estiver escuro, a iluminação está ok; </li>
   <li> Se o ambiente estiver a meia luz, é necessário dar um aviso; </li>
-  <li> Se o ambiente estiver muito cloar, é importante emitir um aviso urgente. </li>
+  <li> Se o ambiente estiver muito claro, é importante emitir um aviso urgente. </li>
 </ul>
 
 <p> Diante disso, foi criado um código para monitorar a iluminação do local e aparecer na tela LCD uma mensagem, informando como está o ambiente. As peças necessárias para isso foram: <p>
