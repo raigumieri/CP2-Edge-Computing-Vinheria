@@ -71,4 +71,6 @@
 </ul>
 
 <h2> Conclusão </h2>
-<p>  </p>
+<p> Após concluir esse projeto, foram feitos diversos testes a procura de falhas, erros e defeitos. Entretando, ele foi finalizado com sucesso, atendendo o que foi solicitado para o grupo. Esperamos que tenha gostado da ideia do grupo! </p>
+
+<p> Muito obrigado pela atenção! 🎓 </p>
